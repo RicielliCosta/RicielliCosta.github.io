@@ -1,0 +1,40 @@
+body{
+    background-color:#C8D5B9; font-family: cursive; font-size: 25px; text-align: justify;
+    padding: 3%;
+}
+h1{
+    font-family: serif; color: #073B4C; text-align: center; font-size: 3em;
+}
+h2{
+    text-align: center;
+}
+p{
+    font-family: fantasy;
+}
+#d, #SM, #h, #b{
+    font-style: italic;
+}
+.lh{
+    font-size: 30px;
+}
+ul li:nth-child(odd){
+    background-color: #0c5a74;
+}
+
+#MF{
+    float: left;
+    padding: 10px;
+    background-color: #0c5a74;
+}
+
+.image-container{
+    height: 400px;
+    position: relative;
+}
+
+.descricao{
+    position: absolute;
+    top: 30%;
+    right: 25%;
+    font-size: 30px;
+}
